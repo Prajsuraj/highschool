@@ -1,5 +1,5 @@
-# Jaffna-College
-Jaffna College
+# High-College
+High College
 
 # preview ->
 
